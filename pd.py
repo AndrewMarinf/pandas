@@ -1,2 +1,2 @@
 import pandas as pd
-impors spark
+from pyspark import SparkContext
